@@ -76,7 +76,7 @@
 ✔ Wallet balance & transaction history  
 ✔ REST APIs with JWT authentication  
 
-🔗 Repo: https://github.com/akshayjaiswal01/digital-wallet  
+🔗 Repo: https://github.com/akshayjaiswal01/Digital_Wallet.git
 
 ---
 
@@ -85,7 +85,7 @@
 ✔ Booking & service management  
 ✔ MVC architecture with Hibernate ORM  
 
-🔗 Repo: https://github.com/akshayjaiswal01/professional-services-app  
+🔗 Repo: https://github.com/akshayjaiswal01/professional-services-app.git
 
 ---
 
@@ -94,7 +94,7 @@
 ✔ Roles: Admin, Pharmacist, User  
 ✔ JDBC-based backend application  
 
-🔗 Repo: https://github.com/akshayjaiswal01/digital-medicine-tracker  
+🔗 Repo: https://github.com/akshayjaiswal01/Digital_Medicine_Tracker.git
 
 ---
 
