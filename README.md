@@ -105,7 +105,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Akshay%20Jaiswal-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:akshaydhanlaljaiswal@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-akshayjaiswal608@gmail.com-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Gmail-akshaydhanlaljaiswal@gmail.com-red?style=for-the-badge&logo=gmail" />
   </a>
   <a href="https://leetcode.com/akshay_jaiswal_">
     <img src="https://img.shields.io/badge/LeetCode-Akshay-orange?style=for-the-badge&logo=leetcode" />
